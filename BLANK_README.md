@@ -174,7 +174,7 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* []()
+* [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template)
 * []()
 * []()
 
